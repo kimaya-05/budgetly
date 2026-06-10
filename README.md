@@ -16,5 +16,4 @@ Budgetly is a full-stack personal finance and expense-tracking web application d
 - **Node.js:** Scalable runtime environment powering the server-side architecture.
 - **Data Visualization:** Recharts
 
-## Key Takeaways
-Developing Budgetly provided deep hands-on experience with the MERN stack. Managing state across complex financial forms and translating raw database documents into clean, interactive visual charts highlighted the importance of clean API design and schema optimization.
+

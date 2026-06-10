@@ -6,7 +6,7 @@ Budgetly is a full-stack personal finance and expense-tracking web application d
 
 - **Comprehensive Transaction Logging:** Secure user authentication allowing individuals to log daily income and expenditures with ease.
 - **Smart Categorization:** Automatically groups financial data into custom streams (e.g., Income: Salary, Investments; Expenses: Rent, Commute, Groceries).
-- **Data Analytics & Visualization:** Generates dynamic graphical representations (pie charts/bar graphs) tracking expenditure trends over time.
+- **Data Analytics & Visualization:** Generates dynamic graphical representations (pie charts/line charts) tracking expenditure trends over time.
 
 ## Tech Stack
 

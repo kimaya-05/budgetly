@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Budgetly 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Budgetly is a full-stack personal finance and expense-tracking web application designed to help users take control of their spending habits through clear categorization and data visualization.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Comprehensive Transaction Logging:** Secure user authentication allowing individuals to log daily income and expenditures with ease.
+- **Smart Categorization:** Automatically groups financial data into custom streams (e.g., Income: Salary, Investments; Expenses: Rent, Commute, Groceries).
+- **Data Analytics & Visualization:** Generates dynamic graphical representations (pie charts/bar graphs) tracking expenditure trends over time.
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **MongoDB:** NoSQL database used to store flexible, user-specific financial records and transaction histories.
+- **Express.js:** Lightweight backend framework handling robust RESTful API routing and server logic.
+- **React.js:** Component-driven frontend utilizing dynamic state to provide a responsive user interface.
+- **Node.js:** Scalable runtime environment powering the server-side architecture.
+- **Data Visualization:** *(Optional: e.g., Chart.js or Recharts)*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Key Takeaways
+Developing Budgetly provided deep hands-on experience with the MERN stack. Managing state across complex financial forms and translating raw database documents into clean, interactive visual charts highlighted the importance of clean API design and schema optimization.
